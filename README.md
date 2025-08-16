@@ -82,6 +82,8 @@ Bangalore: 28°C
 
 **Graph Output:**
 A bar chart where each bar represents a city’s current temperature.
+**OUTPUT**
+<img width="1536" height="754" alt="Image" src="https://github.com/user-attachments/assets/2b4998e0-eaf0-47d7-85ac-c5daac73d6d2" />
 
 
 
